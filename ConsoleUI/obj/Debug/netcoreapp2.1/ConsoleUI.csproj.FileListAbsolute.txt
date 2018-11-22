@@ -1,0 +1,14 @@
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/bin/Debug/netcoreapp2.1/ConsoleUI.deps.json
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/bin/Debug/netcoreapp2.1/ConsoleUI.runtimeconfig.json
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/bin/Debug/netcoreapp2.1/ConsoleUI.runtimeconfig.dev.json
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/bin/Debug/netcoreapp2.1/ConsoleUI.dll
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/bin/Debug/netcoreapp2.1/ConsoleUI.pdb
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/bin/Debug/netcoreapp2.1/ExceptionsLibrary.dll
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/bin/Debug/netcoreapp2.1/ExceptionsLibrary.pdb
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/obj/Debug/netcoreapp2.1/ConsoleUI.csprojAssemblyReference.cache
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/obj/Debug/netcoreapp2.1/ConsoleUI.csproj.CoreCompileInputs.cache
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/obj/Debug/netcoreapp2.1/ConsoleUI.AssemblyInfoInputs.cache
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/obj/Debug/netcoreapp2.1/ConsoleUI.AssemblyInfo.cs
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/obj/Debug/netcoreapp2.1/ConsoleUI.csproj.CopyComplete
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/obj/Debug/netcoreapp2.1/ConsoleUI.dll
+/Users/negreteo/Code/CSharpExceptions/ConsoleUI/obj/Debug/netcoreapp2.1/ConsoleUI.pdb

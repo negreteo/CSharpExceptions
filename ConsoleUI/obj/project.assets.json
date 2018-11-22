@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "ExceptionsLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ExceptionsLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExceptionsLibrary.dll": {}
+        }
       }
     }
   },
@@ -673,10 +683,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "ExceptionsLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ExceptionsLibrary/ExceptionsLibrary.csproj",
+      "msbuildProject": "../ExceptionsLibrary/ExceptionsLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "ExceptionsLibrary >= 1.0.0",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -707,7 +723,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/ExceptionsLibrary.csproj": {
+              "projectPath": "/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/ExceptionsLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

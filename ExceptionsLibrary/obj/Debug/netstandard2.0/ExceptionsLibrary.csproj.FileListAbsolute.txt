@@ -1,0 +1,9 @@
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/bin/Debug/netstandard2.0/ExceptionsLibrary.deps.json
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/bin/Debug/netstandard2.0/ExceptionsLibrary.dll
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/bin/Debug/netstandard2.0/ExceptionsLibrary.pdb
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/obj/Debug/netstandard2.0/ExceptionsLibrary.csprojAssemblyReference.cache
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/obj/Debug/netstandard2.0/ExceptionsLibrary.csproj.CoreCompileInputs.cache
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/obj/Debug/netstandard2.0/ExceptionsLibrary.AssemblyInfoInputs.cache
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/obj/Debug/netstandard2.0/ExceptionsLibrary.AssemblyInfo.cs
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/obj/Debug/netstandard2.0/ExceptionsLibrary.dll
+/Users/negreteo/Code/CSharpExceptions/ExceptionsLibrary/obj/Debug/netstandard2.0/ExceptionsLibrary.pdb
